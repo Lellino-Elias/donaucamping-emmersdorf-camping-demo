@@ -30,7 +30,7 @@ const donaucampingEmmersdorf: CampsiteConfig = {
     {
       title: "Direkt an der Donau",
       text: "Großzügige Stellplätze und ein Zeltplatz mit Blick über den Fluss — die Donau liegt direkt vor dir.",
-      image: { src: `${IMG}/gallery-12b92cdde3.webp`, alt: "Zeltplatz mit Blick auf die Donau beim Donaucamping Emmersdorf" },
+      image: { src: `${IMG}/gallery-2c2a3ebb4f.webp`, alt: "Großzügige Stellplätze am Donaucamping Emmersdorf direkt an der Donau" },
     },
     {
       title: "Übernachten im Weinfass",
@@ -81,12 +81,12 @@ const donaucampingEmmersdorf: CampsiteConfig = {
       {
         title: "Großzügige Stellplätze",
         text: "Ebene Stellplätze mit Strom und Wasser bilden das Herz der Anlage — viel Platz für Wohnwagen und Wohnmobil.",
-        image: { src: `${IMG}/gallery-2c2a3ebb4f.webp`, alt: "Großzügige Stellplätze am Donaucamping Emmersdorf" },
+        image: { src: `${IMG}/gallery-3f1c2b25bc.webp`, alt: "Wohnwagen und Wohnmobile auf den Stellplätzen am Donaucamping Emmersdorf" },
       },
       {
         title: "Zeltplatz mit Flussblick",
         text: "Der Zeltplatz liegt mitten im Grün mit Blick auf die Donau — viel Privatsphäre für ein echtes Camping-Erlebnis.",
-        image: { src: `${IMG}/gallery-5c51c9e89a.webp`, alt: "Zeltplatz mit Blick auf die Donau am Donaucamping Emmersdorf" },
+        image: { src: `${IMG}/gallery-3777e6c590.webp`, alt: "Zelte auf der Wiese mit Blick zur Donau am Donaucamping Emmersdorf" },
       },
       {
         title: "Schnelles Glasfaser-WLAN",
@@ -128,7 +128,7 @@ const donaucampingEmmersdorf: CampsiteConfig = {
     moreCount: 20,
     images: [
       { src: `${IMG}/gallery-4ea6e57270.webp`, alt: "Stellplatz unter Bäumen am Donaucamping Emmersdorf" },
-      { src: `${IMG}/gallery-3777e6c590.webp`, alt: "Zelte auf der Wiese am Donaucamping Emmersdorf" },
+      { src: `${IMG}/gallery-ab8c5bc6ec.webp`, alt: "Gäste auf dem Campingplatz zwischen Wohnwagen und Fahrrädern am Donaucamping Emmersdorf" },
       { src: `${IMG}/gallery-04d8ab62b1.webp`, alt: "Gäste beim geselligen Anstoßen an ihren Stellplätzen am Donaucamping Emmersdorf" },
       { src: `${IMG}/gallery-63d2bac704.webp`, alt: "Abendstimmung über dem Donaucamping Emmersdorf" },
     ],
